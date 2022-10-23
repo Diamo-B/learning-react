@@ -1,1 +1,6 @@
-# Learning-React
+# <strong>Learning-React</strong>
+This is a Repo where i'm gonna follow a full react tutorial in the net ninja's youtube where i'm gonna be making a simple blog just to familiarise myself with the react world in order to move to Next.Js which is my real goal out of all this. Happy Coding:grin:
+<br>
+<p align="center"><img src="https://i.ibb.co/nLkrk1W/1174949-js-react-js-logo-react-react-native-icon-2.png" alt="1174949-js-react-js-logo-react-react-native-icon-2" border="0"><p>
+<br>
+<strong>React</strong> (also known as <strong>React.js</strong> or <strong>ReactJS</strong>) is a free and open-source front-end <strong>JavaScript</strong> library for building user interfaces based on UI components. It is maintained by Meta (formerly Facebook) and a community of individual developers and companies. <strong>React</strong> can be used as a base in the development of single-page, mobile, or server-rendered applications with frameworks like Next.js. However, <strong>React</strong> is only concerned with state management and rendering that state to the DOM, so creating React applications usually requires the use of additional libraries for routing, as well as certain client-side functionality.
