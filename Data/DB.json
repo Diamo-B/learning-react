@@ -1,6 +1,16 @@
 {
-    "blogs": [
-        {"title": "party 1", "body": "Lorem ipsum dolor sit amet", "author": "Diamo", "id":1},
-        {"title": "party 2", "body": "Lorem ipsum dolor sit amet", "author": "Diamo", "id":2}
-    ]
+  "blogs": [
+    {
+      "title": "party 1",
+      "body": "Lorem ipsum dolor sit amet",
+      "author": "Diamo",
+      "id": 1
+    },
+    {
+      "title": "party 2",
+      "body": "Lorem ipsum dolor sit amet",
+      "author": "Diamo",
+      "id": 2
+    }
+  ]
 }
